@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+""" A function that cslculates the amount of water retained"""
+
 def rain(walls):
     if not walls:
         return 0

@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+
 """ A function to calculate the amount of water stored"""
+
 def rain(walls):
     if not walls:
         return 0
